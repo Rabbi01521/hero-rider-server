@@ -22,6 +22,7 @@
 - i used Environment variable in Client side.
 - .env file to hide db user and password and also use .gitignore file
 - For our testing purpose please add one admin with the email address: admin@admin.com with password: abcd1234
+- upload image by base64 and i show that images at the admin panel...
 
 ### Technology :
 
@@ -34,3 +35,4 @@
 - react-router-dom
 - material ui
 - stripe
+- base64 for file upload.
